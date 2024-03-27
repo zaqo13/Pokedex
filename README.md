@@ -1,0 +1,1 @@
+The Pokedex Android App offers a functionalities or library like Volley, ActivityResultLauncher, RecyclerView, FloatingActionButton, PopupMenu, Toolbar, Choose photo from gallary and efficient backend processing, the app ensures a smooth and engaging user journey which focused on functionality and coding prowess.
