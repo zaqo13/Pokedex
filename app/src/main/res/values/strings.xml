@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="pokemon_list_title">List of Pokemon</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+</resources>
